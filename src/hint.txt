@@ -1,0 +1,34 @@
+A/c transaction
+
+WITHOUT REDUX
+=============
+
+components
+  * TransactionList
+  |       
+  |   (list,cuurentIndex,onAddOrEdit)
+  |                   localStorage as DB
+  +--- TransactionForm
+
+  store (TransactionList)
+  *list
+  *cuurentIndex
+
+
+  WITH REDUX
+  ==========
+
+components
+  * TransactionList
+  |                 REDUX store(list,cuurentIndex)
+  |                   localStorage as DB
+  +--- TransactionForm
+
+  
+  redux,react-REDUX
+
+  action - obj represent an operation
+  reducer - based on the action, define how to update current store data
+  store
+
+  component ->dispatch(action) ->reducer -> component
