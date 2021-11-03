@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/transaction-form1.git/static/css/main.451fbf4c.chunk.css",
+    "main.js": "/transaction-form1.git/static/js/main.4fafc84e.chunk.js",
+    "main.js.map": "/transaction-form1.git/static/js/main.4fafc84e.chunk.js.map",
+    "runtime-main.js": "/transaction-form1.git/static/js/runtime-main.a72317e2.js",
+    "runtime-main.js.map": "/transaction-form1.git/static/js/runtime-main.a72317e2.js.map",
+    "static/js/2.232ae0eb.chunk.js": "/transaction-form1.git/static/js/2.232ae0eb.chunk.js",
+    "static/js/2.232ae0eb.chunk.js.map": "/transaction-form1.git/static/js/2.232ae0eb.chunk.js.map",
+    "static/js/3.aaff284b.chunk.js": "/transaction-form1.git/static/js/3.aaff284b.chunk.js",
+    "static/js/3.aaff284b.chunk.js.map": "/transaction-form1.git/static/js/3.aaff284b.chunk.js.map",
+    "index.html": "/transaction-form1.git/index.html",
+    "static/css/main.451fbf4c.chunk.css.map": "/transaction-form1.git/static/css/main.451fbf4c.chunk.css.map",
+    "static/js/2.232ae0eb.chunk.js.LICENSE.txt": "/transaction-form1.git/static/js/2.232ae0eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a72317e2.js",
+    "static/js/2.232ae0eb.chunk.js",
+    "static/css/main.451fbf4c.chunk.css",
+    "static/js/main.4fafc84e.chunk.js"
+  ]
+}
